@@ -88,3 +88,13 @@ flowchart TB
     C -->|Баг| E[Исправление]
     D --> F[Деплой]
     E --> C
+
+```mermaid
+gantt
+    title План разработки
+    dateFormat  YYYY-MM-DD
+    section Основное
+    Идея          :done,    des1, 2024-01-01, 7d
+    Прототип      :active,  des2, 2024-01-08, 14d
+    Тестирование :         des3, after des2, 10d
+    Релиз        :         des4, after des3, 5d
