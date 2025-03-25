@@ -71,3 +71,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+<style>
+@keyframes neon {
+    from { text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14; }
+    to { text-shadow: 0 0 20px #39ff14, 0 0 30px #39ff14; }
+}
+.neon-text {
+    color: #39ff14;
+    animation: neon 1.5s ease-in-out infinite alternate;
+}
+</style>
+<p class="neon-text">Анимированный неоновый текст!</p>
