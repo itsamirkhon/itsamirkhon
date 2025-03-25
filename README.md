@@ -72,12 +72,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
-
 ```mermaid
-radarChart
-    title Мои навыки
-    axis "Python", "JavaScript", "Git", "Docker", "SQL"
-    "2024" : [85, 70, 80, 60, 75]
-    "Цель" : [95, 85, 90, 80, 85]
+pie title Мои навыки
+    "Python" : 35
+    "JavaScript" : 25
+    "Git" : 20
+    "Docker" : 15
+    "SQL" : 5
 ```
 
