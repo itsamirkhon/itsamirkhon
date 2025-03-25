@@ -1,10 +1,11 @@
 
 ```mermaid
-flowchart TB
-    A[💡 Идея] --> B(📝 Планирование)
-    B --> C{💻 Кодинг}
-    C -->|✅ Успех| D[🧪 Тесты]
-    C -->|🐞 Баг| E[🔧 Исправление]
-    D --> F[🚀 Деплой]
-    E --> C
+journey
+    title Контактная информация
+    section Соцсети
+      Telegram: 5: @yournick
+      Email: 4: your@email.com
+    section Профили
+      LeetCode: 3: yournick
+      Habr: 2: yournick
 ```
