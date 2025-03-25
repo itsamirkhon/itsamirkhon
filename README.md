@@ -73,9 +73,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 
+```mermaid
 radarChart
     title Мои навыки
     axis "Python", "JavaScript", "Git", "Docker", "SQL"
     "2024" : [85, 70, 80, 60, 75]
     "Цель" : [95, 85, 90, 80, 85]
+```
 
