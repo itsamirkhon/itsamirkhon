@@ -1,7 +1,7 @@
 <!-- Creative Header -->
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&width=800&height=80&lines=Hi+there!+I%27m+Amirkhon.;AI+Researcher+%7C+Educator+%7C+Moonshot+Dreamer" alt="Typing SVG" />
-</div>
+</p>
 
 <p align="center">
   <a href="https://www.kaggle.com/your-kaggle-profile" style="margin-right: 15px;">
