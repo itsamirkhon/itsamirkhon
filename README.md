@@ -1,55 +1,57 @@
 <!-- Creative Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&width=800&height=80&lines=Hi+there!+I%27m+Amirkhon.;AI+Researcher+%7C+Educator+%7C+Moonshot+Dreamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=600&color=00FF99&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Amirkhon!;AI+Researcher+%7C+Educator+%7C+Moonshot+Visionary" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.kaggle.com/your-kaggle-profile" style="margin: 0 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="48" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" />
-  </a>
-  <a href="https://huggingface.co/your-huggingface-profile" style="margin: 0 10px;">
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="48" />
-  </a>
+  <a href="https://www.kaggle.com/your-kaggle-profile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" /></a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" /></a>
+  <a href="https://huggingface.co/your-huggingface-profile" target="_blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="40" /></a>
+  <a href="https://x.com/yourhandle" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="X" width="40" /></a>
 </p>
-
-Welcome to my GitHub profile! I’m an AI researcher and educator passionate about building autonomous intelligence systems and crafting engaging lessons for middle school students.
-
----
-
-## 🚀 About Me
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/rocket.png" alt="Rocket" width="24"> <img src="https://img.icons8.com/ios-filled/50/000000/lab.png" alt="Lab" width="24"> <img src="https://img.icons8.com/ios-filled/50/000000/book.png" alt="Book" width="24">
+  <em>AI researcher and educator building autonomous systems and inspiring young minds through STEM.</em>
 </p>
-
-- 🌙 **Moonshot Dreamer**: Leading the design of an Autonomous AI Laboratory (AutoSciLab) to generate hypotheses, run experiments, and analyze results independently.
-- 📚 **Education Advocate**: Developing structured, interactive lesson plans for 8th grade classes—covering STEM fundamentals through hands-on activities.
-- 💡 **Tinkerer & Builder**: Love prototyping AI tools, automating workflows, and exploring new technologies.
-- 🎓 **Background**: M.S. in Computer Science, specialized in machine learning and robotics.
 
 ---
 
-## 🔭 Current Projects
+## 🌌 About Me
 
-<table>
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/rocket.png" alt="Rocket" width="24"/> 
+  <img src="https://img.icons8.com/fluency/48/microscope.png" alt="Lab" width="24"/> 
+  <img src="https://img.icons8.com/fluency/48/open-book.png" alt="Book" width="24"/>
+</p>
+
+- **Visionary**: Pioneering *AutoSciLab*, an AI-driven lab for autonomous scientific discovery.
+- **Educator**: Crafting engaging STEM lessons for 8th graders with hands-on experiments.
+- **Innovator**: Prototyping AI tools and automating workflows to push boundaries.
+- **Background**: M.S. in Computer Science (Machine Learning & Robotics).
+
+---
+
+## 🔬 Current Projects
+
+<table align="center">
   <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/robot-2.png" alt="AutoSciLab Logo" width="64" />
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/64/robot-2.png" alt="AutoSciLab" />
       <p><strong>AutoSciLab</strong></p>
-      <p>A self-guided AI lab that designs and executes scientific experiments end-to-end.</p>
+      <p>AI-powered lab for end-to-end scientific experiments.</p>
+      <a href="https://github.com/your-username/autoscilab">Explore →</a>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/classroom.png" alt="STEM Lesson Suite" width="64" />
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/64/classroom.png" alt="STEM Lessons" />
       <p><strong>STEM Lesson Suite</strong></p>
-      <p>Lesson plans, slide decks, and exercises for middle school science and math.</p>
+      <p>Interactive lesson plans for middle school science & math.</p>
+      <a href="https://github.com/your-username/stem-lessons">Explore →</a>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/globe.png" alt="Personal Website" width="64" />
-      <p><strong>Personal Website</strong></p>
-      <p>Portfolio site to showcase projects, blog posts, and resources.</p>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/64/globe.png" alt="Portfolio" />
+      <p><strong>Personal Portfolio</strong></p>
+      <p>Showcasing projects, blogs, and resources.</p>
+      <a href="https://your-portfolio-site.com">Visit →</a>
     </td>
   </tr>
 </table>
@@ -59,37 +61,47 @@ Welcome to my GitHub profile! I’m an AI researcher and educator passionate abo
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="32" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="32" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="32" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="32" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="32" />
+  <img src="https://img.icons8.com/color/40/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/40/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/40/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/40/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/40/kubernetes.png" alt="Kubernetes" />
 </p>
 
-| Category         | Technologies                       |
-| ---------------- | ---------------------------------- |
-| **Programming**  | Python, JavaScript, TypeScript     |
-| **AI & ML**      | PyTorch, TensorFlow, scikit-learn  |
-| **Data**         | pandas, NumPy, Matplotlib          |
-| **Web Dev**      | React, Next.js, Tailwind CSS       |
-| **DevOps**       | Docker, GitHub Actions, Kubernetes |
+| **Category**       | **Technologies**                       |
+|--------------------|----------------------------------------|
+| **Programming**    | Python, JavaScript, TypeScript         |
+| **AI & ML**        | PyTorch, TensorFlow, scikit-learn      |
+| **Data Science**   | pandas, NumPy, Matplotlib, Seaborn     |
+| **Web Dev**        | React, Next.js, Tailwind CSS           |
+| **DevOps**         | Docker, GitHub Actions, Kubernetes     |
 
 ---
 
-## 🌱 Learning & Growth
+## 🌟 What’s Next?
 
-- 🌐 Currently diving into multi-agent reinforcement learning.
-- 🤖 Exploring robotics integrations with AutoSciLab.
-- 📝 Writing blog series on best practices for lesson planning.
+- 🚀 Advancing multi-agent reinforcement learning for *AutoSciLab*.
+- 🤖 Integrating robotics for real-world experimentation.
+- 📝 Publishing a blog series on effective STEM lesson planning.
 
 ---
 
-## 📫 How to Reach Me
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" alt="Twitter"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/ios-filled/30/email.png" alt="Email" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/ios-filled/30/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://x.com/yourhandle"><img src="https://img.icons8.com/ios-filled/30/x.png" alt="X" /></a>
+  <a href="https://your-portfolio-site.com"><img src="https://img.icons8.com/ios-filled/30/globe.png" alt="Website" /></a>
 </p>
 
 ---
