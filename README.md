@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.kaggle.com/your-kaggle-profile" style="margin-right: 15px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="48" />
-</a>
-  <a href="https://www.linkedin.com/in/your-profile" style="margin-right: 15px;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32" />
+  <a href="https://www.kaggle.com/your-kaggle-profile" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="48" />
   </a>
-  <a href="https://huggingface.co/your-huggingface-profile">
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="32" />
+  <a href="https://www.linkedin.com/in/your-profile" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" />
+  </a>
+  <a href="https://huggingface.co/your-huggingface-profile" style="margin: 0 10px;">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="48" />
   </a>
 </p>
 
