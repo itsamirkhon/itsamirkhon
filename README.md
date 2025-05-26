@@ -1,13 +1,13 @@
-<!-- Profile Header -->
+
+<!-- Creative Header -->
 <p align="center">
-  <img src="https://github.com/your-username.png" alt="Profile Picture" width="150" style="border-radius:50%;" />
-  <h1>Hi there, I’m <strong>[Your Name]</strong> 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&width=800&height=80&lines=Hi+there!+I%27m+%5BYour+Name%5D.;AI+Researcher+%7C+Educator+%7C+Moonshot+Dreamer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/👾-OpenAI-blue" alt="OpenAI"></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/🤝-Collab-brightgreen" alt="LinkedIn"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/✉️-Contact-red" alt="Email"></a>
 </p>
 
 Welcome to my GitHub profile! I’m an AI researcher and educator passionate about building autonomous intelligence systems and crafting engaging lessons for middle school students.
@@ -92,3 +92,4 @@ Welcome to my GitHub profile! I’m an AI researcher and educator passionate abo
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo" alt="Visitor Badge" />
 </p>
+
