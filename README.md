@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://www.kaggle.com/your-kaggle-profile" style="margin-right: 15px;">
-    <img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" width="32" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="32" />
+</a>
   <a href="https://www.linkedin.com/in/your-profile" style="margin-right: 15px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32" />
   </a>
