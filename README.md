@@ -4,9 +4,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.kaggle.com/your-kaggle-profile" style="margin-right: 30px;"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://www.linkedin.com/in/your-profile" style="margin-right: 30px;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://huggingface.co/your-huggingface-profile"><img src="https://img.shields.io/badge/HuggingFace-FFDD54?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
+  <a href="https://www.kaggle.com/your-kaggle-profile" style="margin-right: 15px;">
+    <img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" width="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" style="margin-right: 15px;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32" />
+  </a>
+  <a href="https://huggingface.co/your-huggingface-profile">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="32" />
+  </a>
 </p>
 
 Welcome to my GitHub profile! I’m an AI researcher and educator passionate about building autonomous intelligence systems and crafting engaging lessons for middle school students.
