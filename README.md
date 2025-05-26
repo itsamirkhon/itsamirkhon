@@ -1,7 +1,6 @@
-
 <!-- Creative Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&width=800&height=80&lines=Hi+there!+I%27m+%5BAmirkhon%5D.;AI+Researcher+%7C+Educator+%7C+Moonshot+Dreamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&width=800&height=80&lines=Hi+there!+I%27m+Amirkhon.;AI+Researcher+%7C+Educator+%7C+Moonshot+Dreamer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -92,4 +91,3 @@ Welcome to my GitHub profile! I’m an AI researcher and educator passionate abo
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo" alt="Visitor Badge" />
 </p>
-
