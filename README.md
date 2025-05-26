@@ -1,6 +1,6 @@
 <!-- Creative Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=4000&pause=500&color=00FF99&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+Amirkhon!;AI+Researcher+%7C+Educator+%7C+Moonshot+Visionary" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4500&pause=600&color=00FF99¢er=true&vCenter=true&width=400&lines=Hi%2C+I'm+Amirkhon!;AI+Researcher+%7C+Educator;Moonshot+Visionary" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -72,40 +72,4 @@
 |--------------------|----------------------------------------|
 | **Programming**    | Python, JavaScript, TypeScript         |
 | **AI & ML**        | PyTorch, TensorFlow, scikit-learn      |
-| **Data Science**   | pandas, NumPy, Matplotlib, Seaborn     |
-| **Web Dev**        | React, Next.js, Tailwind CSS           |
-| **DevOps**         | Docker, GitHub Actions, Kubernetes     |
-
----
-
-## 🌟 What’s Next?
-
-- 🚀 Advancing multi-agent reinforcement learning for *AutoSciLab*.
-- 🤖 Integrating robotics for real-world experimentation.
-- 📝 Publishing a blog series on effective STEM lesson planning.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
-</p>
-
----
-
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/ios-filled/30/email.png" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/ios-filled/30/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://x.com/yourhandle"><img src="https://img.icons8.com/ios-filled/30/x.png" alt="X" /></a>
-  <a href="https://your-portfolio-site.com"><img src="https://img.icons8.com/ios-filled/30/globe.png" alt="Website" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo" alt="Visitor Badge" />
-</p>
+| **Data Science**   | pandas, NumPy, Matplotlib, Seab
