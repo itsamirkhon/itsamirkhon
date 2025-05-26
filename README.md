@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/👾-OpenAI-blue" alt="OpenAI"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/🤝-Collab-brightgreen" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/✉️-Contact-red" alt="Email"></a>
+  <a href="https://www.kaggle.com/your-kaggle-profile"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/your-huggingface-profile"><img src="https://img.shields.io/badge/HuggingFace-FFDD54?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
 </p>
 
 Welcome to my GitHub profile! I’m an AI researcher and educator passionate about building autonomous intelligence systems and crafting engaging lessons for middle school students.
