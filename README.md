@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.kaggle.com/your-kaggle-profile"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.kaggle.com/your-kaggle-profile" style="margin-right: 10px;"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://www.linkedin.com/in/your-profile" style="margin-right: 10px;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://huggingface.co/your-huggingface-profile"><img src="https://img.shields.io/badge/HuggingFace-FFDD54?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
 </p>
 
