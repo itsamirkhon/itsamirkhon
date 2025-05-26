@@ -1,13 +1,13 @@
 <!-- Creative Header -->
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&width=800&height=80&lines=Hi+there!+I%27m+Amirkhon.;AI+Researcher+%7C+Educator+%7C+Moonshot+Dreamer" alt="Typing SVG" />
-</p>
+</div>
 
 <p align="center">
-  <a href="https://www.kaggle.com/your-kaggle-profile" style="margin-right: 35px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="65" />
+  <a href="https://www.kaggle.com/your-kaggle-profile" style="margin-right: 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="48" />
 </a>
-  <a href="https://www.linkedin.com/in/your-profile" style="margin-right: 35px;">
+  <a href="https://www.linkedin.com/in/your-profile" style="margin-right: 15px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32" />
   </a>
   <a href="https://huggingface.co/your-huggingface-profile">
