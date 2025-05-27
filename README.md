@@ -4,7 +4,7 @@
 
 <div style="position: relative; margin-top: -150px; z-index: 10;">
   <h1 style="color: white; font-size: 3.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); margin-bottom: 10px;">Amirkhon Abdunabiev</h1>
-  <h3 style="color: #00D9FF; font-size: 1.2em; text-shadow: 1px 1px 2px rgba(0,0,0,0.8); margin-top: 0;">AI Researcher | Autonomous Systems | Education Innovator</h3>
+  <h3 style="color: #00D9FF; font-size: 1.2em; text-shadow: 1px 1px 2px rgba(0,0,0,0.8); margin-top: 0;">AI Enthusiast | Innovator at TKS | Intern AI/ML | Building AI Startups</h3>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Systems+%F0%9F%A4%96;Crafting+Educational+Experiences+%F0%9F%93%9A;Exploring+the+Future+of+Science+%F0%9F%94%AC;Welcome+to+my+GitHub+Profile!+%E2%9C%A8)](https://git.io/typing-svg)
