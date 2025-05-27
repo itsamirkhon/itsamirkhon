@@ -6,7 +6,10 @@
 
 # 🌟 Welcome to My Digital Universe
 
+
 <div align="center">
+
+![Background Header](https://media.licdn.com/dms/image/v2/D4E3DAQH7WfLIqo1HXg/image-scale_191_1128/image-scale_191_1128/0/1681253525945/spacex_cover?e=1748930400&v=beta&t=f7XWVz3Nq7bGzBixbUhAs74utFZwwl_qaqbmftPJmxU)
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amirkhon%20Abdunabiev&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20Autonomous%20Systems%20%7C%20Education%20Innovator&descAlignY=55&descSize=18)
 
