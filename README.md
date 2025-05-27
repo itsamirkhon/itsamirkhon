@@ -1,7 +1,7 @@
 <!-- Creative Header with Hero Image -->
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E3DAQH7WfLIqo1HXg/image-scale_191_1128/0/1681253525945/spacex_cover?e=1748930400&v=beta&t=f7XWVz3Nq7bGzBixbUhAs74utFZwwl_qaqbmftPJmxU" alt="Header Image" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 12px;"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E3DAQH7WfLIqo1HXg/image-scale_191_1128/image-scale_191_1128/0/1681253525945/spacex_cover?e=1748930400&v=beta&t=f7XWVz3Nq7bGzBixbUhAs74utFZwwl_qaqbmftPJmxU" alt="Header Image" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 12px;"/>
 </p>
 
 <p align="center">
