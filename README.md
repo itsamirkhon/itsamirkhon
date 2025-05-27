@@ -8,7 +8,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!+%E2%9C%A8;Building+Autonomous+AI+Systems+%F0%9F%A4%96;Shaping+the+Future+of+Education+%F0%9F%93%9A;AI-Powered+Farming+Solutions+%F0%9F%8C%B1;Exploring+the+Future+of+Science+%F0%9F%94%AC;Crafting+Educational+Experiences+%F0%9F%93%9A)](https://git.io/typing-svg)
-
+00D9FF
 </div>
 
 ---
