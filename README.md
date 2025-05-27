@@ -20,13 +20,13 @@
 <td width="50%">
 
 ### 🎯 **Mission**
-> *"Democratizing scientific discovery through autonomous AI systems while inspiring the next generation of innovators."*
+> *"Advancing scientific discovery through autonomous AI systems while inspiring the next generation of innovators."*
 
 **Current Focus:**
-- 🧪 **AutoSciLab** - Autonomous AI Laboratory
-- 📚 **Educational Innovation** - Interactive STEM curricula
-- 🔬 **Research** - Multi-agent reinforcement learning
-- 🌱 **Mentorship** - Guiding young minds in science
+- 🧪 **ΔQ** - Powering Autonomous Scientific Discovery
+- 📚 **Navix** - AI - powered Project-based Learning
+- 🔬 **Research** - LLMs Memory Compression System
+- 🌱 **Agronomic** - Development of AI solutions for agriculture
 
 </td>
 <td width="50%">
