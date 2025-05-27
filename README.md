@@ -1,57 +1,65 @@
 <!-- Creative Header -->
+
+## ✍️ Medium Articles
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4500&pause=600&color=00FF99¢er=true&vCenter=true&width=400&lines=Hi%2C+I'm+Amirkhon!;AI+Researcher+%7C+Educator;Moonshot+Visionary" alt="Typing SVG" />
+  <a href="https://medium.com/@your-medium-username" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium" width="40"/>
+  </a>
+</p>
+
+You can find my latest blog posts and technical articles on Medium. I write about AI research, educational tech, and the process behind building autonomous tools.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&width=800&height=80&lines=Hi+there!+I%27m+Amirkhon.;AI+Researcher+%7C+Educator+%7C+Moonshot+Dreamer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.kaggle.com/your-kaggle-profile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" /></a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" /></a>
-  <a href="https://huggingface.co/your-huggingface-profile" target="_blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="40" /></a>
-  <a href="https://x.com/yourhandle" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="X" width="40" /></a>
+  <a href="https://www.kaggle.com/your-kaggle-profile" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="48" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" />
+  </a>
+  <a href="https://huggingface.co/your-huggingface-profile" style="margin: 0 10px;">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="48" />
+  </a>
 </p>
 
-<p align="center">
-  <em>AI researcher and educator building autonomous systems and inspiring young minds through STEM.</em>
-</p>
+Welcome to my GitHub profile! I’m an AI researcher and educator passionate about building autonomous intelligence systems and crafting engaging lessons for middle school students.
 
 ---
 
-## 🌌 About Me
+## 🚀 About Me
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/rocket.png" alt="Rocket" width="24"/> 
-  <img src="https://img.icons8.com/fluency/48/microscope.png" alt="Lab" width="24"/> 
-  <img src="https://img.icons8.com/fluency/48/open-book.png" alt="Book" width="24"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/rocket.png" alt="Rocket" width="24"> <img src="https://img.icons8.com/ios-filled/50/000000/lab.png" alt="Lab" width="24"> <img src="https://img.icons8.com/ios-filled/50/000000/book.png" alt="Book" width="24">
 </p>
 
-- **Visionary**: Pioneering *AutoSciLab*, an AI-driven lab for autonomous scientific discovery.
-- **Educator**: Crafting engaging STEM lessons for 8th graders with hands-on experiments.
-- **Innovator**: Prototyping AI tools and automating workflows to push boundaries.
-- **Background**: M.S. in Computer Science (Machine Learning & Robotics).
+- 🌙 **Moonshot Dreamer**: Leading the design of an Autonomous AI Laboratory (AutoSciLab) to generate hypotheses, run experiments, and analyze results independently.
+- 📚 **Education Advocate**: Developing structured, interactive lesson plans for 8th grade classes—covering STEM fundamentals through hands-on activities.
+- 💡 **Tinkerer & Builder**: Love prototyping AI tools, automating workflows, and exploring new technologies.
+- 🎓 **Background**: M.S. in Computer Science, specialized in machine learning and robotics.
 
 ---
 
-## 🔬 Current Projects
+## 🔭 Current Projects
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/64/robot-2.png" alt="AutoSciLab" />
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/000000/robot-2.png" alt="AutoSciLab Logo" width="64" />
       <p><strong>AutoSciLab</strong></p>
-      <p>AI-powered lab for end-to-end scientific experiments.</p>
-      <a href="https://github.com/your-username/autoscilab">Explore →</a>
+      <p>A self-guided AI lab that designs and executes scientific experiments end-to-end.</p>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/64/classroom.png" alt="STEM Lessons" />
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/000000/classroom.png" alt="STEM Lesson Suite" width="64" />
       <p><strong>STEM Lesson Suite</strong></p>
-      <p>Interactive lesson plans for middle school science & math.</p>
-      <a href="https://github.com/your-username/stem-lessons">Explore →</a>
+      <p>Lesson plans, slide decks, and exercises for middle school science and math.</p>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/64/globe.png" alt="Portfolio" />
-      <p><strong>Personal Portfolio</strong></p>
-      <p>Showcasing projects, blogs, and resources.</p>
-      <a href="https://your-portfolio-site.com">Visit →</a>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/000000/globe.png" alt="Personal Website" width="64" />
+      <p><strong>Personal Website</strong></p>
+      <p>Portfolio site to showcase projects, blog posts, and resources.</p>
     </td>
   </tr>
 </table>
@@ -61,15 +69,41 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/color/40/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/40/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/40/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/40/docker.png" alt="Docker" />
-  <img src="https://img.icons8.com/color/40/kubernetes.png" alt="Kubernetes" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="32" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="32" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="32" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="32" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="32" />
 </p>
 
-| **Category**       | **Technologies**                       |
-|--------------------|----------------------------------------|
-| **Programming**    | Python, JavaScript, TypeScript         |
-| **AI & ML**        | PyTorch, TensorFlow, scikit-learn      |
-| **Data Science**   | pandas, NumPy, Matplotlib, Seab
+| Category         | Technologies                       |
+| ---------------- | ---------------------------------- |
+| **Programming**  | Python, JavaScript, TypeScript     |
+| **AI & ML**      | PyTorch, TensorFlow, scikit-learn  |
+| **Data**         | pandas, NumPy, Matplotlib          |
+| **Web Dev**      | React, Next.js, Tailwind CSS       |
+| **DevOps**       | Docker, GitHub Actions, Kubernetes |
+
+---
+
+## 🌱 Learning & Growth
+
+- 🌐 Currently diving into multi-agent reinforcement learning.
+- 🤖 Exploring robotics integrations with AutoSciLab.
+- 📝 Writing blog series on best practices for lesson planning.
+
+---
+
+## 📫 How to Reach Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email"></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" alt="Twitter"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo" alt="Visitor Badge" />
+</p>
