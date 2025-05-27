@@ -7,8 +7,9 @@
   <h3 style="color: #00D9FF; font-size: 1.2em; text-shadow: 1px 1px 2px rgba(0,0,0,0.8); margin-top: 0;">AI Researcher | Autonomous Systems | Education Innovator</h3>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Systems+%F0%9F%A4%96;Crafting+Educational+Experiences+%F0%9F%93%9A;Exploring+the+Future+of+Science+%F0%9F%94%AC;Welcome+to+my+GitHub+Profile!+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Systems+%F0%9F%A4%96;Crafting+Educational+Experiences+%F0%9F%93%9A;Exploring+the+Future+of+Science+%F0%9F%94%AC;Welcome+to+my+GitHub+Profile!+%E2%9C%A8)](https://git.io/typing-svg)
 
+</div>
 </div>
 ---
 
