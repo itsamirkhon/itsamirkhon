@@ -23,7 +23,7 @@
 
 **Who I Am:**
 
-I'm passionate about bridging the gap between cutting-edge AI research and real-world impact. As an AI enthusiast and innovator, I spend my days building autonomous systems that can accelerate scientific discovery, transform education, and solve practical problems in agriculture. My journey started with a simple belief: technology should amplify human potential, not replace it. Whether I'm training multi-agent systems to coordinate research tasks, developing personalized learning platforms, or optimizing memory compression algorithms for large language models, I'm always asking the same question—how can AI make the world a little bit better? When I'm not coding or researching, you'll find me writing about the intersection of AI and science, mentoring students, or exploring how we can make advanced technology more accessible to everyone.
+As a young innovator from **Central Asia**, I'm passionate about using AI to create transformative solutions for global challenges. I’m diving deep into AI projects to hone my skills and make a meaningful impact through technology. From building intelligent systems to exploring innovative applications, I’m committed to driving progress and inspiring change. Let’s connect and shape the future with AI!
 
 </td>
 <td width="50%">
@@ -73,65 +73,6 @@ I'm passionate about bridging the gap between cutting-edge AI research and real-
 
 ---
 
-## 🎯 **Featured Projects**
-
-<div align="center">
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🧪 **ΔQ - AutoSciLab**
-**Autonomous AI Laboratory**
-
-Revolutionizing scientific discovery through intelligent automation and multi-agent research coordination.
-
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-[🔗 **View Project**](#)
-
-</td>
-<td width="33%" align="center">
-
-### 📚 **Navix**
-**AI-Powered Learning Platform**
-
-Transforming education through personalized AI experiences and interactive STEM simulations.
-
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Users](https://img.shields.io/badge/Users-500+-success?style=flat-square)
-
-[🔗 **Try Live**](#)
-
-</td>
-<td width="33%" align="center">
-
-### 🌱 **AgriSense AI**
-**Smart Agriculture Solutions**
-
-AI-driven farming solutions for crop monitoring and sustainable agriculture optimization.
-
-![Status](https://img.shields.io/badge/Status-Beta-blue?style=flat-square)
-![Impact](https://img.shields.io/badge/Farms-50+-blue?style=flat-square)
-
-[🔗 **Learn More**](#)
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div align="center">
-
-### 🏗️ **Other Projects**
-
-**🧠 LLM Memory Compression** - Research on efficient memory algorithms for Large Language Models  
-**🌐 Interactive Portfolio** - Personal showcase with technical blog and project demos
-
-</div>
-
 ## ✍️ **Latest Articles & Posts**
 
 <div align="center">
@@ -142,65 +83,18 @@ AI-driven farming solutions for crop monitoring and sustainable agriculture opti
 
 ---
 
-<table>
-<tr>
-<td width="33%" align="center">
-
 ### 📰 **Medium Article**
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amirkhon.abdunabiev/0">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@amirkhon.abdunabiev/0" alt="Latest Article" width="280" style="border-radius: 8px;">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@amirkhon.abdunabiev/0" alt="Latest Article" width="100%" style="border-radius: 8px;">
 </a>
 
 [![Medium](https://img.shields.io/badge/Read%20More-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@amirkhon.abdunabiev)
-
-</td>
-<td width="33%" align="center">
-
-### 💼 **LinkedIn Post #1**
-
-[![LinkedIn Post](https://img.shields.io/badge/Building%20Autonomous%20AI%20Systems-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/your-post-url-1)
-
-**"The Future of Scientific Discovery"**
-
-*Exploring how AI agents can revolutionize laboratory research and accelerate breakthrough discoveries...*
-
-🔬 **Key Points:**
-- Multi-agent coordination
-- Automated experimentation
-- Real-time analysis
-
-**📅 Posted:** March 15, 2025  
-**👍 Reactions:** 245 | **💬 Comments:** 18
-
-</td>
-<td width="33%" align="center">
-
-### 💼 **LinkedIn Post #2**
-
-[![LinkedIn Post](https://img.shields.io/badge/AI%20in%20Education-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/your-post-url-2)
-
-**"Transforming STEM Learning"**
-
-*How personalized AI tutors are changing the way students engage with complex scientific concepts...*
-
-🎓 **Key Points:**
-- Adaptive learning paths
-- Interactive simulations
-- Real-time feedback
-
-**📅 Posted:** March 10, 2025  
-**👍 Reactions:** 189 | **💬 Comments:** 12
-
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Follow%20for%20More%20Updates-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/Follow%20for%20More%20Updates-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirkhon-abdunabiev)
 [![Medium](https://img.shields.io/badge/Read%20All%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amirkhon.abdunabiev)
 
 </div>
@@ -215,72 +109,48 @@ AI-driven farming solutions for crop monitoring and sustainable agriculture opti
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walleeva2018&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsamirkhon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walleeva2018&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsamirkhon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
 
 </td>
 </tr>
 </table>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=walleeva2018&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsamirkhon&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
 
 </div>
 
 ---
-
-## 🌱 **Current Learning Journey**
-
-<div align="center">
-
-| 🎯 **Focus Area** | 📚 **Current Studies** | 🎖️ **Progress** |
-|:---:|:---:|:---:|
-| **Multi-Agent RL** | Advanced coordination algorithms | ![70%](https://progress-bar.dev/70?color=00D9FF) |
-| **Robotics Integration** | Hardware-software interfaces | ![45%](https://progress-bar.dev/45?color=FF6B6B) |
-| **Educational Design** | Pedagogical frameworks | ![85%](https://progress-bar.dev/85?color=4CAF50) |
-| **Scientific Automation** | Lab protocol optimization | ![60%](https://progress-bar.dev/60?color=FFC107) |
-
-</div>
 
 ---
 
 ## 🤝 **Let's Connect**
 
-<div align="center">
+<div>
 
 ### Find me across the digital landscape
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-kaggle-profile)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/your-huggingface-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirkhon-abdunabiev)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/thisisamirkhon)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/thisisamirkhon)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amirkhon.abdunabiev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-### 💬 Open to collaboration on:
-- 🤖 **Autonomous AI Systems**
-- 🔬 **Scientific Research Automation**
-- 📚 **Educational Technology**
-- 🌟 **Open Source Projects**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirkhon.contact@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 🎭 Fun Fact
-*"I believe the future of science lies in the marriage of human creativity and artificial intelligence. Every line of code I write is a step toward that vision."*
-
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=walleeva2018&style=for-the-badge&color=00D9FF)
-[![GitHub followers](https://img.shields.io/github/followers/walleeva2018?style=for-the-badge&color=00D9FF)](https://github.com/walleeva2018)
+![Profile Views](https://komarev.com/ghpvc/?username=itsamirkhon&style=for-the-badge&color=00D9FF)
+[![GitHub followers](https://img.shields.io/github/followers/itsamirkhon?style=for-the-badge&color=00D9FF)](https://github.com/walleeva2018)
 
 **⭐ If you like my work, consider giving my repositories a star!**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
