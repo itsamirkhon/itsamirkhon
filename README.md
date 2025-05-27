@@ -3,12 +3,25 @@
 ## ✍️ Medium Articles
 
 <p align="center">
-  <a href="https://medium.com/@your-medium-username" target="_blank">
+  <a href="https://medium.com/@amirkhon.abdunabiev" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium" width="40"/>
   </a>
 </p>
 
 You can find my latest blog posts and technical articles on Medium. I write about AI research, educational tech, and the process behind building autonomous tools.
+
+## Here are my most current ***Medium*** posts:
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amirkhon.abdunabiev/0">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@amirkhon.abdunabiev/0" alt="Recent Article 0">
+</a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amirkhon.abdunabiev/1">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@amirkhon.abdunabiev/1" alt="Recent Article 1">
+</a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amirkhon.abdunabiev/2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@amirkhon.abdunabiev/2" alt="Recent Article 2">
+</a>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&width=800&height=80&lines=Hi+there!+I%27m+Amirkhon.;AI+Researcher+%7C+Educator+%7C+Moonshot+Dreamer" alt="Typing SVG" />
 </p>
