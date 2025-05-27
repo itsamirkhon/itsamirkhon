@@ -1,4 +1,31 @@
-<!-- Creative Header -->
+<!-- Creative Header with Hero Image -->
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/fe/78/6f/fe786fe1029f3c003c6661b0d1bd3dd2.jpg" alt="Header Image" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&width=800&height=80&lines=Hello!+I'm+Amirkhon.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.kaggle.com/your-kaggle-profile" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="48" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" />
+  </a>
+  <a href="https://huggingface.co/your-huggingface-profile" style="margin: 0 10px;">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="48" />
+  </a>
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walleeva2018&theme=radical)](https://git.io/streak-stats)
+
+Welcome to my GitHub profile! I’m an AI researcher and educator passionate about building autonomous intelligence systems and crafting engaging lessons for middle school students.
+
+---
 
 ## ✍️ Medium Articles
 
@@ -21,26 +48,6 @@ You can find my latest blog posts and technical articles on Medium. I write abou
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amirkhon.abdunabiev/2">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@amirkhon.abdunabiev/2" alt="Recent Article 2">
 </a>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&width=800&height=80&lines=Hi+there!+I%27m+Amirkhon.;AI+Researcher+%7C+Educator+%7C+Moonshot+Dreamer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.kaggle.com/your-kaggle-profile" style="margin: 0 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="48" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" />
-  </a>
-  <a href="https://huggingface.co/your-huggingface-profile" style="margin: 0 10px;">
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="48" />
-  </a>
-</p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walleeva2018&theme=radical)](https://git.io/streak-stats)
-
-Welcome to my GitHub profile! I’m an AI researcher and educator passionate about building autonomous intelligence systems and crafting engaging lessons for middle school students.
 
 ---
 
