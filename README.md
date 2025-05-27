@@ -44,29 +44,32 @@
 
 ## 🛠️ **Tech Arsenal**
 
-<div align="center">
-
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
-
 ---
 ### **AI & Machine Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-1E4E8E?style=for-the-badge&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-00D9FF?style=for-the-badge&logo=ai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Llama-cpp](https://img.shields.io/badge/Llama--cpp-6B7280?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### **Tools & Skills**
+![Firebase Studio](https://img.shields.io/badge/Firebase%20Studio-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Finetuning](https://img.shields.io/badge/Finetuning-6B7280?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDEyYzEuMSAwIDIgLjkgMiAyczAtLjktMi0yLTItLjktMi0yLjktMiAyLTItMnMyIC45IDIgMnYuMXYuMWMwIC42LS4zIDEuMi0uOCAxLjZsLTMuNSAzLjVhMiAyIDAgMCAwIDAgMi44IDIgMiAwIDAgMCAyLjggMGwzLjUtMy41Yy41LS40LjgtMSAuOC0xLjZ2LS4xdi0uMWMwLTEuMS45LTIgMi0ycy0uOS0yLTItMnptLTIgMGMtLjYgMC0xLjEuNS0xLjEgMS4xcy41IDEuMSAxLjEgMS4xIDEuMS0uNSAxLjEtMS4xLS41LTEuMS0xLjEtMS4xem0tNC40IDQuNGMtLjYgMC0xLjEuNS0xLjEgMS4xcy41IDEuMSAxLjEgMS4xIDEuMS0uNSAxLjEtMS4xLS41LTEuMS0xLjEtMS4xem02LjggNi44Yy0uNiAwLTEuMS41LTEuMSAxLjFzLjUgMS4xIDEuMSAxLjEgMS4xLS41IDEuMS0xLjEtLjUtMS4xLTEuMS0xLjF6Ii8+PC9zdmc+)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-00D9FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTMgM2gyMHYxOEgzdi0xOHptMTguNSA4LjVsLTQuNS00LjUtMS40MSAxLjQxIDMuMDkgMy4wOS0zLjA5IDMuMDkgMS40MSAxLjQxIDQuNS00LjV6bS02IDZsLTMuMDktMy4wOSAxLjQxLTEuNDEgNC41IDQuNS00LjUgNC41LTEuNDEtMS40MSAzLjA5LTMuMDl6bS02IDZsLTMuMDktMy4wOSAxLjQxLTEuNDEgNC41IDQuNS00LjUgNC41LTEuNDEtMS40MSAzLjA5LTMuMDl6Ii8+PC9zdmc+)
+![Data Annotating](https://img.shields.io/badge/Data%20Annotating-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTMgM2gyMHYxOEgzdi0xOHptMTMuNSA2LjVsLTMtM3YxMmgzdi0xMnptLTYgMGwtMy0zdjEyaDN2LTEyek0zIDE4djNoMTh2LTNIM3oiLz48L3N2Zz4=)
+
+</div>
 
 </div>
 
