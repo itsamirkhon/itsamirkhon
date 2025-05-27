@@ -75,13 +75,8 @@ As a young innovator from **Central Asia**, I'm passionate about using AI to cre
 
 ## ✍️ **Latest Articles & Posts**
 
-<div align="center">
+<div>
 
-### 📝 **Recent Thoughts on AI & Innovation**
-
-</div>
-
----
 
 ### 📰 **Medium Article**
 
@@ -126,8 +121,6 @@ As a young innovator from **Central Asia**, I'm passionate about using AI to cre
 
 ---
 
----
-
 ## 🤝 **Let's Connect**
 
 <div>
@@ -142,10 +135,9 @@ As a young innovator from **Central Asia**, I'm passionate about using AI to cre
 
 </div>
 
----
+
 
 <div align="center">
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itsamirkhon&style=for-the-badge&color=00D9FF)
 [![GitHub followers](https://img.shields.io/github/followers/itsamirkhon?style=for-the-badge&color=00D9FF)](https://github.com/walleeva2018)
