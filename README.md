@@ -6,17 +6,18 @@
 
 # 🌟 Welcome to My Digital Universe
 
-
 <div align="center">
 
-![Background Header](https://media.licdn.com/dms/image/v2/D4E3DAQH7WfLIqo1HXg/image-scale_191_1128/image-scale_191_1128/0/1681253525945/spacex_cover?e=1748930400&v=beta&t=f7XWVz3Nq7bGzBixbUhAs74utFZwwl_qaqbmftPJmxU)
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amirkhon%20Abdunabiev&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20Autonomous%20Systems%20%7C%20Education%20Innovator&descAlignY=55&descSize=18)
+<img src="https://media.licdn.com/dms/image/v2/D4E3DAQH7WfLIqo1HXg/image-scale_191_1128/image-scale_191_1128/0/1681253525945/spacex_cover?e=1748930400&v=beta&t=f7XWVz3Nq7bGzBixbUhAs74utFZwwl_qaqbmftPJmxU" alt="SpaceX Mars Background" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 12px;"/>
+
+<div style="position: relative; margin-top: -150px; z-index: 10;">
+  <h1 style="color: white; font-size: 3.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); margin-bottom: 10px;">Amirkhon Abdunabiev</h1>
+  <h3 style="color: #00D9FF; font-size: 1.2em; text-shadow: 1px 1px 2px rgba(0,0,0,0.8); margin-top: 0;">AI Researcher | Autonomous Systems | Education Innovator</h3>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Systems+%F0%9F%A4%96;Crafting+Educational+Experiences+%F0%9F%93%9A;Exploring+the+Future+of+Science+%F0%9F%94%AC;Welcome+to+my+GitHub+Profile!+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
-
 ---
 
 ## 🚀 About Me
