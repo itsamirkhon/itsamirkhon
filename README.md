@@ -1,13 +1,13 @@
 <!-- Creative Header with Hero Image -->
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E3DAQH7WfLIqo1HXg/image-scale_191_1128/image-scale_191_1128/0/1681253525945/spacex_cover?e=1748930400&v=beta&t=f7XWVz3Nq7bGzBixbUhAs74utFZwwl_qaqbmftPJmxU" alt="Header Image" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 12px;"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E3DAQH7WfLIqo1HXg/image-scale_191_1128/0/1681253525945/spacex_cover?e=1748930400&v=beta&t=f7XWVz3Nq7bGzBixbUhAs74utFZwwl_qaqbmftPJmxU" alt="Header Image" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 12px;"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&width=800&height=80&lines=Hello!+I'm+Amirkhon.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00CED1&width=800&height=80&lines=Hello!+I'm+Amirkhon.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
-https://i.pinimg.com/736x/fe/78/6f/fe786fe1029f3c003c6661b0d1bd3dd2.jpg
+
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.kaggle.com/your-kaggle-profile" style="margin: 0 10px;">
