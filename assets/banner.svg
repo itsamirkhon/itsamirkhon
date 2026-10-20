@@ -1,39 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Amirkhon Abdunabiev</title>
-  <desc id="desc">Building useful software with AI. Agents, applications, and developer tools.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#101827"/>
-      <stop offset="1" stop-color="#080D16"/>
-    </linearGradient>
-    <linearGradient id="line" x1="820" y1="60" x2="1100" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#74C7FF"/>
-      <stop offset="1" stop-color="#6774F5"/>
-    </linearGradient>
-  </defs>
-  <rect x=".5" y=".5" width="1199" height="359" rx="20" fill="url(#bg)" stroke="#263449"/>
-  <g stroke="#223149" stroke-width="1">
-    <path d="M800 0V360M880 0V360M960 0V360M1040 0V360M1120 0V360M760 60H1200M760 140H1200M760 220H1200M760 300H1200" opacity=".45"/>
-  </g>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <circle cx="62" cy="59" r="4" fill="#88CFFF"/>
-    <text x="78" y="64" fill="#B7C7DD" font-size="14" letter-spacing="2.6">AMIRKHON ABDUNABIEV</text>
-    <text x="58" y="151" fill="#F1F6FF" font-size="49" font-weight="700" letter-spacing="-1.7">Building useful</text>
-    <text x="58" y="210" fill="#F1F6FF" font-size="49" font-weight="700" letter-spacing="-1.7">software with <tspan fill="#88CFFF">AI.</tspan></text>
-    <text x="60" y="286" fill="#9CAFC8" font-size="17">Agents. Applications. Developer tools.</text>
-  </g>
-  <g stroke="url(#line)" stroke-width="2">
-    <path d="M854 104H958V180H1062V256H1122"/>
-    <path d="M854 256H918V180H958V104H1062" opacity=".6"/>
-    <rect x="836" y="86" width="36" height="36" rx="9" fill="#142239"/>
-    <rect x="940" y="162" width="36" height="36" rx="9" fill="#142239"/>
-    <rect x="1044" y="238" width="36" height="36" rx="9" fill="#142239"/>
-    <circle cx="1062" cy="104" r="6" fill="#88CFFF"/>
-    <circle cx="854" cy="256" r="6" fill="#88CFFF"/>
-  </g>
-  <g fill="#88CFFF">
-    <circle cx="854" cy="104" r="4"/>
-    <circle cx="958" cy="180" r="4"/>
-    <circle cx="1062" cy="256" r="4"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Amirkhon Abdunabiev</title><desc id="desc">AI agents. Applied ML. Developer tools. Khujand, Tajikistan.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#111B2D"/><stop offset="1" stop-color="#090F1B"/></linearGradient>
+<linearGradient id="panel" x1="897" y1="85" x2="1137" y2="325" gradientUnits="userSpaceOnUse"><stop stop-color="#263F68"/><stop offset="1" stop-color="#15233C"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#8AABE0" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1280" height="420" rx="16" fill="url(#bg)"/>
+<rect x="810" y="1" width="469" height="418" rx="16" fill="url(#grid)"/>
+<path d="M56 64H88" stroke="#BAF68C" stroke-width="3"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="104" y="70" fill="#BAC8DE" font-size="16" letter-spacing="2.5">AMIRKHON ABDUNABIEV</text>
+<text x="52" y="199" fill="#F4F7FC" font-size="100" font-weight="700" letter-spacing="-5">Amirkhon<tspan fill="#BAF68C">.</tspan></text>
+<text x="57" y="255" fill="#CBD8EC" font-size="26" letter-spacing="-.4">AI agents. Applied ML. Developer tools.</text>
+<text x="57" y="361" fill="#8496B2" font-size="16">KHUJAND, TAJIKISTAN</text>
+<text x="732" y="361" text-anchor="end" fill="#8496B2" font-size="16">@itsamirkhon</text>
+</g>
+<path d="M790 52V368" stroke="#26354D"/>
+<rect x="909" y="101" width="240" height="240" rx="28" fill="#060C16" stroke="#1E2C43"/>
+<rect x="897" y="85" width="240" height="240" rx="28" fill="url(#panel)" stroke="#536F97" stroke-width="1.5"/>
+<rect x="915" y="103" width="204" height="204" rx="16" fill="#101C30" stroke="#354D72"/>
+<g stroke="#698BBE" stroke-width="1.5">
+<path d="M947 85V61M981 85V61M1015 85V61M1049 85V61M1083 85V61M947 325V349M981 325V349M1015 325V349M1049 325V349M1083 325V349"/>
+<path d="M897 137H873M897 171H873M897 205H873M897 239H873M897 273H873M1137 137H1161M1137 171H1161M1137 205H1161M1137 239H1161M1137 273H1161"/>
+</g>
+<g stroke="#BAF68C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M969 162L942 189L969 216M1065 162L1092 189L1065 216M1030 151L1004 227"/></g>
+<circle cx="946" cy="277" r="4" fill="#BAF68C"/>
+<path d="M960 277H994M1004 277H1020" stroke="#526F97" stroke-width="3" stroke-linecap="round"/>
+<text x="1088" y="282" text-anchor="end" font-family="monospace" font-size="14" fill="#8FAACE">BUILD</text>
+<rect x=".5" y=".5" width="1279" height="419" rx="15.5" stroke="#27374F"/>
 </svg>
